@@ -1,0 +1,12 @@
+Name,Job Title,Company,Topic
+Neil Jones, Head of Fixed Income, Bank ZZZ, Fixed Income technology
+Neil Jones, Head of Fixed Income, Bank ZZZ, Futures technology
+Sam Smith, Chief Regulator, Regulator Q, Why regulation is great
+Gordon Selfridge, Trading Technology Manager, ABC Investments, Execution Venue Analysis
+Austin Healey, Equity Trader, X Bank, Program Trading post Dodd-Frank
+Austin Healey, Equity Trader, X Bank, Delta One post Dodd-Frank
+William Lyons, Equity Trade Desk Officer, QQ Investment Management, ETF Trading TCA 
+Dr Joe Bloggs, Director Equity Trading, Global Bank XX, Why XX is great
+David Jones, Head of Asset Management, ZZZ Asset Management, TCA for the buy-side
+Fraser Smith, Algorthmic Trading Director, Proprietary Trading firm OPL, Algorthmic Trading 101
+Justin Once, Sales, Bank ZOP, Selling execution
